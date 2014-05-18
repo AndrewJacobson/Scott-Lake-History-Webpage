@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.pull-right {
+    float: right;
+}
+
+.notebook {
+    font-family: 'Script MT',script;
+}
+
+table.notebook {
+    border-collapse: collapse;
+}
+
+.notebook td {
+    border: 1px solid cyan;
+}
